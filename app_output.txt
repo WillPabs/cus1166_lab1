@@ -1,0 +1,11 @@
+Will has a grade of 100
+John has a grade of 95
+Martin has a grade of 84
+Matt has a grade of 97
+Fiona has a grade of 77
+Carrie has a grade of 82
+Anthony has a grade of 100
+Joe has a grade of 68
+Lisa has a grade of 89
+Sarah has a grade of 92
+Average grade of current roster 88.4
